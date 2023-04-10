@@ -20,3 +20,27 @@ W terminalu pobieramy nastepujące moduły:
 pip install pandas
 pip install matplotlib
 ```
+
+
+Strony:
+https://www.pexels.com/pl-pl/
+https://logomakr.com
+https://color.adobe.com/pl/create
+https://www.youtube.com/watch?v=BhltwjuiEk4&list=PLOLM1PJCtLqrsjhPxdm4a91IyFh5bpfwu&index=6&t=5817s
+
+Kolor
+48fcad
+
+
+Astra
+
+Motyw:
+Business coach
+
+Pluginy:
+Elementor
+EnvatoElements
+OceanExtra(niekoniecznie)
+Unlimited Elements for Elementor (do bloga)
+
+
