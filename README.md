@@ -22,22 +22,22 @@ pip install matplotlib
 ```
 
 
-Strony:
+## Strony:
 *https://www.pexels.com/pl-pl/
 *https://logomakr.com
 *https://color.adobe.com/pl/create
 *https://www.youtube.com/watch?v=BhltwjuiEk4&list=PLOLM1PJCtLqrsjhPxdm4a91IyFh5bpfwu&index=6&t=5817s
 
-Kolor
+## Kolor
 *48fcad
 
 
-Astra
+## Astra
 
-Motyw:
+## Motyw:
 *Business coach
 
-Pluginy:
+## Pluginy:
 *Elementor
 *EnvatoElements
 *OceanExtra(niekoniecznie)
