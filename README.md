@@ -27,6 +27,7 @@ pip install matplotlib
 * https://logomakr.com
 * https://color.adobe.com/pl/create
 * https://www.youtube.com/watch?v=BhltwjuiEk4&list=PLOLM1PJCtLqrsjhPxdm4a91IyFh5bpfwu&index=6&t=5817s
+* https://www.youtube.com/watch?v=f_Ht_CrQIgg&list=PLOLM1PJCtLqrsjhPxdm4a91IyFh5bpfwu&index=3&t=2504s
 
 ## Kolor
 * 48fcad
@@ -38,9 +39,8 @@ pip install matplotlib
 * Business coach
 
 ## Pluginy:
-* Elementor
-* EnvatoElements
-* OceanExtra(niekoniecznie)
+* Elementor 
+* EnvatoElements (motywy)
 * Unlimited Elements for Elementor (do bloga)
 * GTranslate ( tłumaczenie stron )
 * Cookie Notice & Compliance for GDPR / CCPA (Cookie)
